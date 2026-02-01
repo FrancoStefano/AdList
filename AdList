@@ -50,6 +50,9 @@
 ||craigslist.org^
 ||etracker.com^
 ||smarketer.de^
+||newrelic.com^
+||amazon-adsystem.com^
+||ziffstatic.com^
 
 www.rapleaf.com
 
@@ -368,7 +371,7 @@ www.adfarm1.adition.com
 zabbix.adfarm1.adition.com
 
 # [Brave]
-anonymous.ads.brave.com
+||ads.brave.com^$important
 
 #[sharethrough.com]
 btir.sharethrough.com
