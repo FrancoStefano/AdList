@@ -16823,6 +16823,34 @@ zawieszone.5p.pl
 zwyklesprawy.eu
 
 
+#[R]
+
+# Reddit
+
+||pixel.reddit.com^
+||events.reddit.com^
+||ads.reddit.com^
+||app.adjust.com^
+||app.appsflyer.com^
+||control.kochava.com^
+
+! --- Missing Mobile Attribution ---
+||appsflyersdk.com^
+||adjust.com^
+||app.link^
+||kochava.com^
+
+! --- Reddit Specific Trackers ---
+||pixel.reddit.com^
+||events.reddit.com^
+||ads.reddit.com^
+
+! --- Missing Mobile Analytics ---
+||app-measurement.com^
+||mobile-collector.newrelic.com^
+||crashlytics.com^
+
+
 #[tapresearch.com]
 
 78tdd75.com
