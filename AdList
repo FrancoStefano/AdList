@@ -53,6 +53,11 @@
 ||newrelic.com^
 ||amazon-adsystem.com^
 ||ziffstatic.com^
+||redditstatic.com^
+||w3-reporting.reddit.com^
+||www.reddit.com/svc/shreddit/perfMetrics^$important
+||alb.reddit.com^
+||e.reddit.com^
 
 www.rapleaf.com
 
