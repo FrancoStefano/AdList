@@ -71,6 +71,7 @@
 ||app-analytics-services.com^
 ||linode.com^
 ||usrpubtrk.com^
+||kochava.com^
 
 
 
@@ -16586,7 +16587,19 @@ zwyklesprawy.eu
 ||ads.reddit.com^
 ||app.adjust.com^
 ||app.appsflyer.com^
-||control.kochava.com^
+ad.reddit.com
+ads-api.reddit.com
+ads-partner-admin.reddit.com
+ads-partner-api.reddit.com
+ads-partner-beta.reddit.com
+ads-partner-dev.reddit.com
+ads-partner-portal.reddit.com
+ads-partner-prod.reddit.com
+ads-partner-staging.reddit.com
+ads-partner-test.reddit.com
+ads-partner.reddit.com
+staging-ads-partner.reddit.com
+
 
 ! --- Missing Mobile Attribution ---
 ||appsflyersdk.com^
