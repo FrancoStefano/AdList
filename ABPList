@@ -1150,15 +1150,9 @@
 #companyId "double.net"
 ||doubleclick.com^
 #companyId "google"
-||google.com^
-#companyId "google"
 ||invitemedia.com^
 #companyId "google"
-||google.com^
-#companyId "google"
 ||doubleclick.com^
-#companyId "google"
-||google.com^
 #companyId "google"
 ||doubleverify.com^
 #companyId "doubleverify"
@@ -1432,33 +1426,13 @@
 #companyId "godaddy"
 ||goodadvert.ru^
 #companyId "goodadvert"
-||google.com^
-#companyId "google"
-||google.com^
-#companyId "google"
-||google.com^
-#companyId "google"
-||google.com^
-#companyId "google"
 ||adwords.google.com^
-#companyId "google"
-||google.com^
 #companyId "google"
 ||developers.google.com^
 #companyId "google"
-||google.com^
-#companyId "google"
 ||marketingplatform.google.com^
 #companyId "google"
-||google.com^
-#companyId "google"
 ||adwords.google.com^
-#companyId "google"
-||google.com^
-#companyId "google"
-||google.com^
-#companyId "google"
-||google.com^
 #companyId "google"
 ||gorillanationmedia.com^
 #companyId "gorilla_nation_media"
@@ -3497,8 +3471,7 @@
 #companyId "fullstory"
 ||funnelytics.io^
 #companyId "funnelytics"
-||google.com^
-#companyId "google"
+
 ||get.gaug.es^
 #companyId "euroweb"
 ||geeen.co.jp^
@@ -3525,15 +3498,15 @@
 #companyId "goingup"
 ||gomez.com^
 #companyId "dynatrace"
-||google.com^
+ 
 #companyId "google"
 ||google.xyz^
 #companyId "google"
-||google.com^
+ 
 #companyId "google"
-||google.com^
+ 
 #companyId "google"
-||google.com^
+ 
 #companyId "google"
 ||mailchimp.com^
 #companyId "mailchimp"
@@ -4383,7 +4356,7 @@
 #companyId "gb-world"
 ||mail.google.com^
 #companyId "google"
-||google.com^
+ 
 #companyId "google"
 ||en.gravatar.com^
 #companyId "automattic"
