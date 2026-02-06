@@ -3,8 +3,8 @@
 ||allotupwardmalicious.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 
-
-## [Adertisement]
+#[ADS]
+#[Adertisement]
 
 ||163.com^
 #companyId "163"
@@ -204,8 +204,6 @@
 #companyId "prosieben_sat1"
 ||adjal.com^
 #companyId "marketing_adjal"
-||github.com^
-#companyId "adjs"
 ||adjug.com^
 #companyId "adjug"
 ||adk2.com^
@@ -3146,8 +3144,9 @@
 #companyId "zwaar"
 ||zypmedia.com^
 #companyId "zypmedia"
-
+#[A]
 #[site_analytics]
+
 ||1000mercis.com^
 #companyId "1000mercis"
 ||1plusx.com^
@@ -4329,7 +4328,9 @@
 ||zohocorp.com^
 #companyId "zoho_corp"
 
+#[S]
 #[Social Media]
+
 ||ziyu.net^
 #companyId "acrweb"
 ||addshoppers.com^
@@ -4462,8 +4463,6 @@
 #companyId "mediafed"
 ||readrboard.com^
 #companyId "centre_phi"
-||reddit.com^
-#companyId "advance"
 ||meteorsolutions.com^
 #companyId "rio_seo"
 ||sitebooster.com^
@@ -4480,10 +4479,6 @@
 #companyId "hatena_jp"
 ||stumbleupon.com^
 #companyId "stumbleupon"
-||tumblr.com^
-#companyId "verizon"
-||tumblr.com^
-#companyId "verizon"
 ||turnsocial.com^
 #companyId "turnsocial"
 ||tweetboard.com^
@@ -4519,13 +4514,16 @@
 ||wykop.pl^
 #companyId "wykop"
 
+#[T]
 #[telemetry]
 ||qualcomm.com^
 #companyId "qualcomm"
 ||samsung.com^
 #companyId "samsung"
 
+#[M]
 #[mobile_analytics]
+
 ||adjust.com^
 #companyId "applovin"
 ||android.com^
@@ -61280,11 +61278,6 @@ yovizag.com##div[id^="v-yovizag-"]
 ytfreedownloader.com##.kl-before-header
 ytmp3.cc###a-320-50
 ytmp3.mobi###ba
-yts.mx##.aksdj483csd
-yts.mx##.aoiwjs
-yts.mx##.dfskieurjkc23a
-yts.mx##.durs-bordered
-yts.mx##[href^="https://stARtgAMinG.net/"]
 yugatech.com###text-69
 yugatech.com##a[href^="https://yugatech.ph/"]
 zap-map.com###top-advert-content
