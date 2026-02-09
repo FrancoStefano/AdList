@@ -6,10 +6,22 @@
 
 #[A]
 ||admaster.cc^
-||iadsdk.apple.com^
-||cloudflareinsights.com^
 ||ads-partner.reddit.com^
 ||ads.vidaahub.com^
+
+#[C]
+||cloudflareinsights.com^
+
+#[I]
+||iadsdk.apple.com^
+
+#[L]
+||liveramp.com^
+
+#[P]
+||pippio.com^
+||privacymanager.io^
+
 
 ! TRACKING RULES (140 rules)
 !========================================
