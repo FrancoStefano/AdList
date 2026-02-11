@@ -8,9 +8,24 @@
 ||admaster.cc^
 ||ads-partner.reddit.com^
 ||ads.vidaahub.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||adcolony.com^
+||analytics.google.com^
+||www.adtech.yahooinc.com^
+
+#[B]
+||bugsnag.com^$important
 
 #[C]
 ||cloudflareinsights.com^
+||cdn.mouseflow.com^
+||cdn77.org^
+
+
+#[G]
+||googleanalytics.com^
+
 
 #[I]
 ||iadsdk.apple.com^
@@ -18,9 +33,24 @@
 #[L]
 ||liveramp.com^
 
+#[M]
+||miui.com^
+
+
 #[P]
 ||pippio.com^
 ||privacymanager.io^
+
+
+
+
+
+
+
+
+
+
+
 
 
 ! TRACKING RULES (140 rules)
