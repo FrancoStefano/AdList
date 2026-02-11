@@ -30,12 +30,41 @@
 ||adcolony.com^
 ||analytics.google.com^
 ||www.adtech.yahooinc.com^
+||active.mobi^
+||ad.reddit.com^
+||adblock-data.s3.brave.com^
+||adition.com^
+||adjust.com^
+||adjust.io^
+||admaster.cc^
+||adnxs.com^
+||ads-api.reddit.com^
+||ads-partner.reddit.com^
+||ads.vidaahub.com^
+||adsbynimbus.com^
+||adsmoloco.com^
+||adsystem.com^
+||alb.reddit.com^
+||amazon-adsystem.com^
+||amplitude.com^
+||analytics.query.yahoo.com^
+||analytics.reddit.com^
+||api-adservices.apple.com^
+||app-analytics-services.com^
+||app-measurement.com^
+||app-us1.com^
+||applvn.com^
+||appsflyer.com^
+||awstrack.me^
 
 #[B]
 ||bidvertiser.com^
 ||brightroll.com^
 ||buyads.com^
 ||bugsnag.com^
+||bidmachine.io^
+||blueduckredapple.com^
+||branch.io^
 
 #[C]
 ||connatix.com^
@@ -45,6 +74,11 @@
 ||cloudflareinsights.com^
 ||cdn.mouseflow.com^
 ||cdn77.org^
+||cat.io^
+||cloudflareinsights.com^
+||craigslist.org^
+||crashlyticsreports-pa.googleapis.com^
+||crazylabs.com^
 
 #[D]
 ||doubleclick.net^
