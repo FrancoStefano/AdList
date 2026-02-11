@@ -82,26 +82,58 @@
 
 #[D]
 ||doubleclick.net^
+||display.io^
+||doubleclick.net^
+||doubleverify.com^
+||dspx.tv^
 
 #[E]
 ||epom.com^
 ||exponential.com^
+||e.reddit.com^
+||esimdiscovery.com^
+||etracker.com^
+||everestop.io^
+
+#[F]
+||facebook.com/tr^
+||facebook.com^
+||flsrv.net^
+||fyber.com^
 
 #[G]
 ||googlesyndication.com^
 ||googleanalytics.com^
 ||gumgum.com^
+||gameanalytics.com^
+||www.google.com/pagead^
+||googleadservices.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||gql-fed.reddit.com^
 
 #[I]
 ||indexexchange.com^
 ||inmobi.com^
 ||iadsdk.apple.com^
+||i.redd.it^
+||inmobi.com^
+||inner-active.mobi^
+||iponweb.net^
+||iteleserve.com^
+
+#[K]
+||kayzen.io^
+||kochava.com^
 
 #[L]
 ||ligadx.com^
 ||liveintent.com^
 ||liverail.com^
 ||liveramp.com^
+||liftoff.io^
+||linode.com^
+||lqm.io^
 
 #[M]
 ||marinsoftware.com^
@@ -109,11 +141,17 @@
 ||medialets.com^
 ||mgid.com^
 ||miui.com^
+||matrix.redditspace.com^
+||moloco.com^
+||mtgglobals.com^
 
 #[O]
 ||onclickads.net^
 ||openx.net^
 ||outbrain.com^
+
+#[N]
+||newrelic.com^
 
 #[P]
 ||perfectaudience.com^
@@ -122,6 +160,11 @@
 ||popads.net^
 ||propellerads.com^
 ||pubmatic.com^
+||packaged-media.redd.it^
+||parkingcrew.net^
+||partnerads.ysm.yahoo.com^
+||pubmatic.com^
+||pubnative.net^
 
 #[Q]
 ||quantcast.com^
@@ -131,25 +174,56 @@
 ||revive-adserver.com^
 ||rtbhouse.com^
 ||rubiconproject.com^
+||rayjump.com^
+||www.reddit.com/svc/shreddit/perfMetrics^$important
+||revenuecat.com^
+||rsc-ads.vidaahub.com^
 
 #[S]
 ||smaato.net^
 ||smartadserver.com^
 ||spotxchange.com^
+||sascdn.com^
+||scorecardresearch.com^
+||smadex.com^
+||smarketer.de^
+||smartadserver.com^
+||star.c10r.facebook.com^
+||supersonicads.com^
+
 
 #[T]
 ||taboola.com^
 ||tradedoubler.com^
 ||trafficjunky.net^
+||taboola.com^
+||tapad.com^
+||tpbid.com^
+||ttpsdk.info^
+||twitter.com^
+
+#[U]
+||unity3d.com^
+||usrpubtrk.com^
+
 
 #[V]
 ||vibrantmedia.com^
+||v.redd.it^
+||vungle.com^
+
+#[W]
+||w3-reporting.reddit.com^
+||wp.com^
 
 #[Y]
+||yandex.ru^
+||yandexadexchange.net^
 ||yieldlab.net^
 ||yieldmo.com^
 
 #[Z]
+||ziffstatic.com^
 ||zedo.com^
 
 
