@@ -112,7 +112,7 @@
 ||googleadservices.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
-||gql-fed.reddit.com^
+#||gql-fed.reddit.com^ # Crush Reddit Mobile
 
 #[I]
 ||indexexchange.com^
