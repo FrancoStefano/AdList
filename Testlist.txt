@@ -57026,7 +57026,6 @@ zpaste.net##.uk-animation-shake
 @@||abcnews.com/assets/js/prebid.min.js$~third-party
 @@||abcnews.com/assets/player/$script,~third-party
 @@||about.smartnews.com/ja/wp-content/assets/img/advertisers/ad_$~third-party
-@@||abt.s3.yandex.net/expjs/latest/exp.js$script,domain=some.porn
 @@||accounts.google.com^$generichide
 @@||accuweather.com/bundles/prebid.$script
 @@||airplaydirect.com/openx/www/images/$image
@@ -57233,8 +57232,6 @@ zpaste.net##.uk-animation-shake
 @@||google.com/recaptcha/api2/
 @@||google.com/recaptcha/enterprise.js
 @@||google.com/recaptcha/enterprise/
-@@||googleadservices.com/pagead/conversion.js$domain=ncsoft.jp
-@@||googleadservices.com/pagead/conversion_async.js$script,domain=zubizu.com
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googletagservices.com/tag/js/gpt.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.tw|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
 @@||government-and-constitution.org/images/presidential-seal-300-250.gif$image,~third-party
@@ -57601,3 +57598,6 @@ crcldu.com
 protechts.net
 ueiwsp.com
 a2z.com
+51.la
+yandex.net
+yandex-net.ru
