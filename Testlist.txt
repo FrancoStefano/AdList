@@ -57605,6 +57605,5 @@ html-load.com
 privacy-mgmt.com
 ads.linkedin.com.
 lookaside.instagram.com
-l.instagram.com
 platform.instagram.com
 adtidy.org
