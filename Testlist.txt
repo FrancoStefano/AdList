@@ -57609,3 +57609,6 @@ platform.instagram.com
 adtidy.org
 otieu.com
 cdn4ads.com
+temu.com
+rovio.com
+advertising.amazon.dev

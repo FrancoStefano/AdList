@@ -4356,6 +4356,7 @@
 ||advertiseserve.com^
 ||advertisespace.com^$third-party
 ||advertising-cdn.com^
+||advertising.amazon.dev^
 ||advertising.apple.com^
 ||advertising.com^
 ||advertising.reddit.com^
@@ -43351,6 +43352,7 @@
 ||roveearnesttablets.com^
 ||roverinvolv.bid^$popup
 ||rovingsafocal.rest^
+||rovio.com^
 ||rovno.xyz^
 ||rovomghrtungt.online^
 ||rowdyraise.pro^
@@ -48359,6 +48361,7 @@
 ||tempr.email##.awrapper^
 ||tempr.email/public/responsive/gfx/awrapper/^
 ||temprowboat.cyou^
+||temu.com^
 ||temu.com^$popup,domain=pornproxy.art
 ||tenadfpgwocuw.website^
 ||tencableplug.com^$popup
