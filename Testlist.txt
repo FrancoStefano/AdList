@@ -57612,3 +57612,7 @@ cdn4ads.com
 temu.com
 rovio.com
 advertising.amazon.dev
+googletagmanager.com
+google-analytics.com
+browser.sentry-cdn.com
+p3a.brave.com
