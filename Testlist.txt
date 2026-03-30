@@ -57616,3 +57616,4 @@ googletagmanager.com
 google-analytics.com
 browser.sentry-cdn.com
 p3a.brave.com
+amazon.dev
