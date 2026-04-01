@@ -58301,7 +58301,6 @@ appdynamics.com
 de8of677fyt0b.cloudfront.net
 eum-appdynamics.com
 jscdn.appier.net
-apple.com
 aaplimg.com
 apple-cloudkit.com
 apple-dns.net
@@ -58309,9 +58308,7 @@ apple-livephotoskit.com
 apple-mapkit.com
 apple.news
 apzones.com
-cdn-apple.com
 icloud-content.com
-icloud.com
 icons.axm-usercontent-apple.com
 itunes.com
 me.com
