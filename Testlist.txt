@@ -1,5 +1,3 @@
-ls.srvcs.tumblr.com
-
 #[A]
 ||aaxads.com^
 ||active.mobi^
@@ -64069,3 +64067,4 @@ zeusclicks.com
 ziffdavis.com
 zwaar.org
 zypmedia.com
+ls.srvcs.tumblr.com

@@ -5576,8 +5576,6 @@
 ||ak-is2.net^
 ||ak-tracker.com^
 ||aka.ms^
-||akadns.net^
-||akamai.net^
 ||akamaiedge.net^
 ||akamaihd.net^
 ||akamaized.net/mr/popunder.js^
@@ -9251,8 +9249,6 @@
 ||bing.com##div[class="ins_exp vsp"]^
 ||bing.com##li[data-idx]:has(#mm-ebad)^
 ||bing.com#?#li.b_algo:has(.rms_img[src*="id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F"]):has(.tptt:-abp-contains(/^([Aa]mazon(\.[acdefinps][aeglnorst]m?\.?[abjmtu]?[kprux]?)?|Best Buy|Booking\.com|eBay|eDreams|Lenovo US|Trip\.com|Tripadvisor|Walmart)$/))
-||bing.com^
-||bing.net^
 ||bingads.microsoft.com^
 ||bingapis.com^
 ||binge.com.au^
@@ -24050,8 +24046,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||www.google-analytics.com^
 ||google-analytics.com^
+||www.google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -32574,7 +32570,7 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="Advertisement"]^
+||linkedin.com##iframe[title="advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedin.com^
@@ -34189,8 +34185,8 @@
 ||maper.info^
 ||maphatinso.net^
 ||maplehache.cfd^
-||maploco.com^
 ||www.maploco.com^
+||maploco.com^
 ||mapquest.co.uk,mapquest.com##.mqBizLocsContainer^
 ||mapquest.com##.bg-primary-12^
 ||mapquest.com##.mq-bizLocs-container^
@@ -61634,7 +61630,6 @@
 ||youtube.com/get_video_info?*adunit$~third-party^
 ||youtube.com/pagead/^
 ||youtube.com/youtubei/v1/player/ad_break^
-||youtube.com^
 ||youtube.local^
 ||youtubelike.com###header-top^
 ||youtubelike.com##.bottom-thumbs^
