@@ -57602,7 +57602,6 @@ html-load.com
 privacy-mgmt.com
 ads.linkedin.com.
 lookaside.instagram.com
-platform.instagram.com
 adtidy.org
 otieu.com
 cdn4ads.com
@@ -58152,9 +58151,7 @@ airpr.com
 ab.airpush.com
 abmr.net
 akamaihd.net
-akamaized.net
 akstat.io
-edgekey.net
 imiclk.com
 akaquill.net
 akamoihd.net
@@ -59493,7 +59490,6 @@ glomex.cloud
 glomex.com
 glotgrx.com
 a.gmdelivery.com
-gmail.com
 ad.atown.jp
 gmx.net
 gmxpro.net
@@ -59810,8 +59806,6 @@ inskinad.com
 inskinmedia.com
 inspectlet.com
 inspsearchapi.com
-cdninstagram.com
-instagram.com
 tcgtrkr.com
 sdad.guru
 insticator.com
@@ -59910,11 +59904,6 @@ grazie.ai
 intellij.net
 jb.gg
 jetbrains.ai
-jetbrains.com
-jetbrains.com.cn
-jetbrains.dev
-jetbrains.net
-jetbrains.org
 jetbrains.ru
 jetbrains.space
 kotl.in
@@ -61367,7 +61356,6 @@ quintrics.nl
 sharecompany.nl
 sharepointonline.com
 onmicrosoft.com
-sharepoint.com
 sharethis.com
 shareth.ru
 sharethrough.com
@@ -62691,6 +62679,7 @@ adworx.at
 adworxs.net
 adxion.com
 adxpose.com
+
 adyoulike.com
 adzerk.com
 adzly.com
@@ -62840,6 +62829,7 @@ bluekai.com
 bluelithium.com
 bluemetrix.ie
 bluestreak.com
+
 bol.com
 boldcommerce.com
 boo-box.com
@@ -62858,6 +62848,7 @@ brandwire.tv
 branica.com
 bridgetrack.com
 brightedge.com
+
 brightroll.com
 brilig.com
 broadstreetads.com
@@ -62870,6 +62861,7 @@ burstmedia.com
 burtcorp.com
 usebutton.com
 buysellads.com
+
 bypass.jp
 c1exchange.com
 c8.net.ua
@@ -62952,6 +62944,7 @@ complex.com
 conative.de
 conduit.com
 confirmit.com
+
 connatix.com
 connectad.io
 connexity.com
@@ -62994,6 +62987,7 @@ cxense.com
 cyberwing.co.jp
 cygnus.com
 c-on-text.com
+
 advertising.dailymotion.com
 daisycon.com
 media.dantrack.net
@@ -63012,6 +63006,7 @@ persgroep.nl
 persgroep.be
 dedicatedmedia.com
 deepintent.com
+
 adaction.se
 demandbase.com
 demandmedia.com
@@ -63042,7 +63037,11 @@ dotandmedia.com
 dotomi.com
 double.net
 doubleclick.com
+
 invitemedia.com
+
+doubleclick.com
+
 doubleverify.com
 drawbrid.ge
 dreamlab.pl
@@ -63051,6 +63050,7 @@ dstillery.com
 dtscout.com
 dudamobile.com
 dynad.net
+
 dynamiclogic.com
 hottraffic.nl
 e-planning.net
@@ -63112,6 +63112,10 @@ eyeota.com
 eyereturnmarketing.com
 eyeviewdigital.com
 ezakus.com
+facebook.com
+facebook.com
+facebook.com
+facebook.com
 facebook.com
 facetz.net
 facilitatedigital.com
@@ -63181,6 +63185,8 @@ a.gmdelivery.com
 gmo.media
 godaddy.com
 goodadvert.ru
+adwords.google.com
+developers.google.com
 adwords.google.com
 marketingplatform.google.com
 gorillanationmedia.com
@@ -63286,6 +63292,7 @@ iprospect.com
 is.com
 isocket.com
 ispot.tv
+
 ity.im
 ividence.com
 equifax.com
@@ -63297,6 +63304,7 @@ jivox.com
 jobs2careers.com
 jssearch.net
 jsecoin.com
+
 juiceadv.com
 jumptap.com
 justpremium.com
@@ -63352,6 +63360,8 @@ limk.com
 linezing.com
 linkbucks.com
 linkconnector.com
+linkedin.com
+business.linkedin.com
 linker.hr
 linkprice.com
 linksmart.com
@@ -63376,6 +63386,7 @@ m-pathy.com
 mp-newmedia.com
 zanox.com
 madadsmedia.com
+
 madisonlogic.com
 madnet.ru
 mads.com
@@ -63400,6 +63411,7 @@ en.frodx.com
 marketo.com
 markmonitor.com
 marktest.com
+
 martinimediainc.com
 mbn.com.ua
 mastertarget.ru
@@ -63459,6 +63471,7 @@ mobicow.com
 mobify.com
 moceanmobile.com
 modernimpact.com
+
 mogomarketing.com
 populis.com
 monetize-me.com
@@ -63549,6 +63562,7 @@ optmd.com
 optincollect.com
 optomaton.com
 ora.tv
+oracle.com
 orange.co.uk
 orange142.com
 orangesoda.com
@@ -63556,6 +63570,10 @@ orcinternational.com
 ordergroove.com
 otclick-adv.ru
 otm-r.com
+outbrain.com
+outbrain.com
+outbrain.com
+outbrain.com
 outbrain.com
 owneriq.com
 oxomi.com
@@ -63627,6 +63645,7 @@ proximic.com
 proxistore.com
 psyma.com
 pub-fit.com
+
 pubdirecte.com
 pubgears.com
 publicidees.co.uk
@@ -63732,6 +63751,7 @@ salesforce.com
 salesfusion.com
 salespidermedia.com
 samba.tv
+samsung.com
 sanoma.com
 sapexchange.media
 sapo.pt
@@ -63932,6 +63952,8 @@ undertone.com
 unite.me
 udg.de
 united-internet.de
+unity.com
+oracle.com
 unrulymedia.com
 clickability.com
 uppr.de
@@ -63997,6 +64019,7 @@ webads.co.uk
 fr.webedia-group.com
 weborama.com
 webtrends.com
+microsoft.com
 weebly.com
 sina.com
 widerplanet.com
@@ -64006,6 +64029,7 @@ wigzo.com
 reklama.wp.pl
 wp.pl
 wisepops.com
+wordpress.com
 wwwpromoter.com
 wywy.com
 x-lift.jp
@@ -64044,6 +64068,7 @@ yodle.com
 pinetech.vn
 yottly.com
 ysance.com
+yume.com
 yume.com
 zanox.com
 zaparena.com

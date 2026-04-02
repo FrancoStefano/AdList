@@ -4751,8 +4751,8 @@
 ||adtear.com^$third-party
 ||adtech.de^
 ||adtech.de^$third-party
-||adtech.yahooinc.com^
 ||www.adtech.yahooinc.com^
+||adtech.yahooinc.com^
 ||adtechium.com^$third-party
 ||adtechjp.com^$third-party
 ||adtechus.com^
@@ -5577,7 +5577,6 @@
 ||aka.ms^
 ||akamaihd.net^
 ||akamaized.net/mr/popunder.js^
-||akamaized.net^
 ||akamoihd.net^
 ||akane-ad.com^
 ||akanoo.com^
@@ -10735,6 +10734,7 @@
 ||business-standard.com##.Nws_banner_Hp^
 ||business-standard.com##div[id^="between_article_content_"]
 ||business-standard.com,johncodeos.com##.hide-on-mobile^
+||business.linkedin.com^
 ||business.twitter.com^
 ||business2community.com##.busin-coinzilla-after-content^
 ||business2community.com##.busin-news-placement-2nd-paragraph^
@@ -11687,7 +11687,6 @@
 ||cdnflex.me^
 ||cdnfreemalva.com^
 ||cdngain.com^
-||cdninstagram.com^
 ||cdnintech.com/web/frontend/www/assets/*/js/adsLoader.js^
 ||cdnjquery.com^
 ||cdnkimg.com^
@@ -16772,6 +16771,7 @@
 ||developermedia.com^
 ||developermedia.com^$third-party
 ||developers.google.com#@##google-ads^
+||developers.google.com^
 ||developmentgoat.com^
 ||devfrog.shop^
 ||devgottia.github.io^
@@ -18764,7 +18764,6 @@
 ||edgecastcdn.net^
 ||edgecastdns.net^
 ||edgegamers.com##[style="padding-bottom:10px;height:90px;"]^
-||edgekey.net^
 ||edgevertise.com^
 ||edggfqqsbycwo.store^
 ||edgxfgit.com^
@@ -23795,7 +23794,6 @@
 ||glyrcioxzpvvh.site^
 ||glyshalimu.com^
 ||gmads.net^
-||gmail.com^
 ||gmanetwork.com###mrec-container^
 ||gmanetwork.com##.ivs-placeholder^
 ||gmanetwork.com##.mrect^
@@ -24037,8 +24035,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||google-analytics.com^
 ||www.google-analytics.com^
+||google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -28251,7 +28249,6 @@
 ||instacart.com##li[data-testid="compact-item-list-header"]^
 ||instaflrt.com^
 ||instagram.com/api/v1/injected_story_units/^
-||instagram.com^
 ||install-check.com^
 ||install1check.com^
 ||installationmidterm.com^
@@ -29422,11 +29419,6 @@
 ||jestfulseptuor.shop^
 ||jestsaurore.cfd^
 ||jetbrains.ai^
-||jetbrains.com.cn^
-||jetbrains.com^
-||jetbrains.dev^
-||jetbrains.net^
-||jetbrains.org^
 ||jetbrains.ru^
 ||jetbrains.space^
 ||jetlore.com^
@@ -32561,7 +32553,7 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="advertisement"]^
+||linkedin.com##iframe[title="Advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedin.com^
@@ -35076,6 +35068,7 @@
 ||microad.jp^$third-party
 ||microad.net^
 ||microadinc.com^
+||microsoft.com^
 ||microsoftazuread-sso.com^
 ||microsoftonline-p.com^
 ||microsofttranslator.com^
@@ -42010,7 +42003,6 @@
 ||platchwwraojk.online^
 ||platform-one.co.jp^
 ||platform.foursquare.com^
-||platform.instagram.com^
 ||platform.linkedin.com^
 ||platform.tumblr.com^
 ||platform161.com^
@@ -48981,7 +48973,6 @@
 ||sharedmediumshe.com^
 ||shareinvestor.com###sic_superBannerAdTop^
 ||sharemedia.rs^$third-party
-||sharepoint.com^
 ||sharepointonline.com^
 ||shareresults.com^
 ||sharesceral.uno^
