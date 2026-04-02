@@ -59127,9 +59127,6 @@ earnify.com
 easyads.bg
 easylist.club
 classistatic.de
-ebay-us.com
-ebay.com
-ebay.de
 ebayclassifiedsgroup.com
 ebaycommercenetwork.com
 ebaydesc.com
@@ -59586,7 +59583,6 @@ googletagservices.com
 googletraveladservices.com
 pki.goog
 googlecommerce.com
-googleusercontent.com
 telephony.goog
 gmodules.com
 jamboard.google.com
@@ -60570,7 +60566,6 @@ netflixinvestor.com
 netflixstudios.com
 netflixtechblog.com
 nflximg.com
-netify.ai
 netzathleten-media.de
 netminers.dk
 netmining.com
@@ -60656,7 +60651,6 @@ octapi.net
 service.octavius.rocks
 office.com
 office.net
-office365.com
 oghub.io
 ohmystats.com
 adohana.com
@@ -60697,10 +60691,8 @@ oaserve.com
 realmedia.com
 realmediadigital.com
 opensharecount.com
-chatgpt.com
 oaistatic.com
 oaiusercontent.com
-openai.com
 oloadcdn.net
 openload.co
 openstat.net
@@ -60756,14 +60748,9 @@ orelsite.ru
 otclick-adv.ru
 othersearch.info
 otm-r.com
-otto.de
 ottogroup.media
 outbrain.com
 outbrainimg.com
-live.com
-cloud.microsoft
-hotmail.com
-outlook.com
 svc.ms
 overheat.it
 oewabox.at

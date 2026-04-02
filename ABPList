@@ -4751,8 +4751,8 @@
 ||adtear.com^$third-party
 ||adtech.de^
 ||adtech.de^$third-party
-||www.adtech.yahooinc.com^
 ||adtech.yahooinc.com^
+||www.adtech.yahooinc.com^
 ||adtechium.com^$third-party
 ||adtechjp.com^$third-party
 ||adtechus.com^
@@ -12025,7 +12025,6 @@
 ||chat.mochapp.com^
 ||chatango.com^
 ||chatelaine.com##.assmbly-ad-text^
-||chatgpt.com^
 ||chathoassoungu.net^
 ||chatinator.com^$third-party
 ||chatsuptocachee.net^
@@ -12844,7 +12843,6 @@
 ||cloud-trail.com^
 ||cloud.chatbeacon.io^
 ||cloud.hentai-moon.com/contents/hdd337st/$media^
-||cloud.microsoft^
 ||cloud.setupad.com^
 ||cloudapp.net^
 ||cloudbet.com/ad/^
@@ -18618,12 +18616,10 @@
 ||ebaumsworld.com###subheader_atf_wrapper^
 ||ebaumsworld.com##.mediumRect^
 ||ebaumsworld.com,greedyfinance.com##.divider^
-||ebay-us.com^
 ||ebay.co.uk,ebay.com,ebay.com.au##.srp-1p__link^
 ||ebay.com##div[title="ADVERTISEMENT"]^
 ||ebay.com/scl/js/ScandalLoader.js^
 ||ebay.com^
-||ebay.de^
 ||ebayadservices.com^
 ||ebayclassifiedsgroup.com^
 ||ebayclassifiedsgroup.com^$third-party
@@ -24035,8 +24031,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||www.google-analytics.com^
 ||google-analytics.com^
+||www.google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -24108,7 +24104,6 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||googletraveladservices.com^
-||googleusercontent.com^
 ||googlevads-cn.com^
 ||googlevideo.com/videoplayback?$rewrite=abp-resource:blank-mp4,domain=laurelberninteriors.com|safeframe.googlesyndication.com^
 ||googlevideo.com^
@@ -26497,7 +26492,6 @@
 ||hotlinedisappointed.com^
 ||hotlink.cc/promo/^
 ||hotlog.ru^
-||hotmail.com^
 ||hotmovies.com/custom_videos.php?^
 ||hotmovs.com###in_va^
 ||hotmovs.com##.app-banners^
@@ -32692,7 +32686,6 @@
 ||live-a-live.com^
 ||live-drink.com^
 ||live-tennis.eu##.copyright^
-||live.com^
 ||live.primis.tech^$third-party
 ||live2support.com^
 ||live800.com^
@@ -37227,7 +37220,6 @@
 ||netflopin.com^
 ||netgames.io/js/page-ads.js^
 ||netguard.mobi^
-||netify.ai^
 ||netinsight.co.kr^$third-party
 ||netizen.co^$third-party
 ||netletix.com^
@@ -38972,7 +38964,6 @@
 ||office.com^
 ||office.net^
 ||office1266.fun^
-||office365.com^
 ||officedepot.com###PromoteIqCarousel^
 ||officedepot.com##.od-col:has(.od-product-card-region-colors-sponsored)^
 ||officedepot.com##.od-search-criteo-banner-ads__siderail^
@@ -39660,7 +39651,6 @@
 ||openadex.dk^
 ||openadserving.com^$popup
 ||openadultdirectory.com/banner-^
-||openai.com^
 ||openbook.net^$third-party
 ||opencan.net^
 ||opencart.com/application/view/image/banner/^
@@ -40069,7 +40059,6 @@
 ||ottadvisors.com^$third-party
 ||ottbquetbznbx.space^
 ||ottiirflm.com^
-||otto.de^
 ||ottogroup.media^
 ||ottomanneath.digital^
 ||ottverse.com##.livevideostack-ad^
@@ -40188,7 +40177,6 @@
 ||outlinedistinguish.com^
 ||outlineflourishingplumber.com^
 ||outloginequity.com^
-||outlook.com^
 ||outlook.live.com##._BAY1XlyQSIe6kyKPlYP^
 ||outlook.live.com##.VdboX[tabindex="0"]:has(img[src="https://res.cdn.office.net/assets/ads/adbarmetrochoice.svg"])^
 ||outlook.live.com##[data-app-section="MessageList"] div[style^="position: absolute; left: 0px; top: 0px"]:has(.ms-Shimmer-container)
