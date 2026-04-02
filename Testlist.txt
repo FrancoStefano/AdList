@@ -58153,14 +58153,12 @@ airbrake.io
 airpr.com
 ab.airpush.com
 abmr.net
-akamai.net
 akamaihd.net
 akamaized.net
 akstat.io
 edgekey.net
 edgesuite.net
 imiclk.com
-akadns.net
 akamaiedge.net
 akaquill.net
 akamoihd.net
@@ -58473,8 +58471,6 @@ bildstatic.de
 ad-cdn.bilgin.pro
 pixel.bilinmedia.net
 bat.r.msn.com
-bing.com
-bing.net
 virtualearth.net
 binge.com.au
 view.binlayer.com
@@ -62399,7 +62395,7 @@ youporn.com
 ypncdn.com
 googlevideo.com
 youtube-nocookie.com
-youtube.com
+
 ytimg.com
 c.ypcdn.com
 i1.ypcdn.com
