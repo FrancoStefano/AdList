@@ -58155,9 +58155,7 @@ akamaihd.net
 akamaized.net
 akstat.io
 edgekey.net
-edgesuite.net
 imiclk.com
-akamaiedge.net
 akaquill.net
 akamoihd.net
 adn-d.sp.gmossp-sp.jp
@@ -58245,16 +58243,9 @@ associates-amazon.com
 cloudfront.net
 ota-cloudfront.net
 axx-eu.amazon-adsystem.com
-amazonpay.com
-payments-amazon.com
-amazonpay.in
 aiv-cdn.net
 aiv-delivery.net
-amazonvideo.com
 pv-cdn.net
-primevideo.com
-amazonaws.com
-amazonwebservices.com
 awsstatic.com
 adnetwork.net.vn
 adnetwork.vn
@@ -58296,7 +58287,6 @@ appdynamics.com
 de8of677fyt0b.cloudfront.net
 eum-appdynamics.com
 jscdn.appier.net
-aaplimg.com
 icons.axm-usercontent-apple.com
 me.com
 mzstatic.com
@@ -59302,7 +59292,6 @@ d1q7pknmpq2wkm.cloudfront.net
 fap.to
 farlightgames.com
 fastly-insights.com
-fastly.net
 fastlylb.net
 fastly-edge.com
 fastly-masque.net
@@ -62702,7 +62691,6 @@ adworx.at
 adworxs.net
 adxion.com
 adxpose.com
-
 adyoulike.com
 adzerk.com
 adzly.com

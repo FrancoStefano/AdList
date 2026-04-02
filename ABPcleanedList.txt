@@ -3159,7 +3159,6 @@
 ||aamazoncognito.com^
 ||aan.xxx###header-banner^
 ||aanetwork.vn^$third-party
-||aaplimg.com^
 ||aaprhbdlqstrob.net^
 ||aapugyluomq.xyz^
 ||aaqdyhptis.com^
@@ -5576,7 +5575,6 @@
 ||ak-is2.net^
 ||ak-tracker.com^
 ||aka.ms^
-||akamaiedge.net^
 ||akamaihd.net^
 ||akamaized.net/mr/popunder.js^
 ||akamaized.net^
@@ -6079,16 +6077,11 @@
 ||amazonaws.com/dazeddigital.com/Ads-main.js$domain=dazeddigital.com^
 ||amazonaws.com/jsstore/$domain=babylonbee.com^
 ||amazonaws.com/mailcache.appinthestore.com/^
-||amazonaws.com^
 ||amazonaws.com^$domain=hexupload.net|megaup.net|uploadhaven.com
 ||amazonbrowserapp.co.uk^
 ||amazonbrowserapp.es^
 ||amazoncrl.com^
-||amazonpay.com^
-||amazonpay.in^
 ||amazontrust.com^
-||amazonvideo.com^
-||amazonwebservices.com^
 ||ambaab.com^
 ||ambaquarrel.rest^
 ||ambbilgy.cfd^
@@ -18772,7 +18765,6 @@
 ||edgecastdns.net^
 ||edgegamers.com##[style="padding-bottom:10px;height:90px;"]^
 ||edgekey.net^
-||edgesuite.net^
 ||edgevertise.com^
 ||edggfqqsbycwo.store^
 ||edgxfgit.com^
@@ -20702,7 +20694,6 @@
 ||fastly-edge.com^
 ||fastly-insights.com^
 ||fastly-masque.net^
-||fastly.net^
 ||fastlylb.net^
 ||fastnativead.com^
 ||fastonlineusers.com^
@@ -24046,8 +24037,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||www.google-analytics.com^
 ||google-analytics.com^
+||www.google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -32570,7 +32561,7 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="Advertisement"]^
+||linkedin.com##iframe[title="advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedin.com^
@@ -34185,8 +34176,8 @@
 ||maper.info^
 ||maphatinso.net^
 ||maplehache.cfd^
-||www.maploco.com^
 ||maploco.com^
+||www.maploco.com^
 ||mapquest.co.uk,mapquest.com##.mqBizLocsContainer^
 ||mapquest.com##.bg-primary-12^
 ||mapquest.com##.mq-bizLocs-container^
@@ -40972,7 +40963,6 @@
 ||paydotcom.com^$third-party
 ||payeessarif.com^
 ||paymentperiodiciceberg.com^
-||payments-amazon.com^
 ||paypal.com^
 ||paypalobjects.com^
 ||payperpost.com^$third-party
@@ -43177,7 +43167,6 @@
 ||primeos.in/wp-content/uploads/*/Sidebar-Ad.png^
 ||primepermit.pro^
 ||primevalstork.com^
-||primevideo.com^
 ||primevideospot.com^
 ||primewire.link##a[href^="https://url.rw/"]
 ||primis-amp.tech^$third-party
