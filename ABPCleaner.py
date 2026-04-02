@@ -16,9 +16,19 @@ def build_output_lines(target_file):
     grouped_domains = collections.defaultdict(list)
     seen_normalized = set()
 
-    # 2. Logic for grouping and secondary deduplication
+    # 2. Logic for grouping and deduplication (after ABP standardization)
     for domain in raw_lines:
-        # Create a "normalized" version to check for duplicates like 'example.com' vs 'Example.com'
+        # Normalize single | prefix to || (invalid ABP format)
+        if domain.startswith("|") and not domain.startswith("||") and not domain.startswith("@@"):
+            domain = "|" + domain
+
+        # Standardize format: ensure it has || and ^ unless it already starts with || or @@
+        if not domain.startswith("||") and not domain.startswith("@@"):
+            domain = f"||{domain}"
+        if "^" not in domain:
+            domain = f"{domain}^"
+
+        # Deduplicate after standardization so 'extend.tv' and '||extend.tv^' are treated as the same
         norm = domain.lower()
         if norm in seen_normalized:
             continue
@@ -54,11 +64,6 @@ def build_output_lines(target_file):
         current_group = sorted(grouped_domains[key], key=get_sort_val)
 
         for d in current_group:
-            # Standardize format: ensure it has || and ^ unless it already starts with || or | or @@
-            if not d.startswith("||") and not d.startswith("|") and not d.startswith("@@"):
-                d = f"||{d}"
-            if "^" not in d:
-                d = f"{d}^"
             output_lines.append(d)
 
         output_lines.append("")  # Empty line between groups
