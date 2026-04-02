@@ -6709,12 +6709,7 @@
 ||appier.com^
 ||appiusaware.cfd^
 ||applaudenviable.com^
-||apple-cloudkit.com^
-||apple-dns.net^
-||apple-livephotoskit.com^
-||apple-mapkit.com^
 ||apple.analnoe24.com^
-||apple.news^
 ||appleinsider.com###mobile-article-anchor^
 ||appleinsider.com##.bottom^
 ||appleinsider.com##.col-sm-12 > :has([id^="div-gpt-ad-"])
@@ -6826,7 +6821,6 @@
 ||apyqxsmhpwuotj.com^
 ||apzgcipacpu.com^
 ||apzionhismcgb.space^
-||apzones.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqcutwom.xyz^
 ||aqczwowu.com^
@@ -23543,7 +23537,6 @@
 ||gitajwl.com^
 ||github.blog^
 ||github.dev^
-||github.io^
 ||gitoku.com^
 ||gittip.com^
 ||givawknyjaexj.online^
@@ -24057,8 +24050,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||google-analytics.com^
 ||www.google-analytics.com^
+||google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -27193,7 +27186,6 @@
 ||icky-fuel.pro^
 ||iclickcdn.com^
 ||iclmewjplvaru.space^
-||icloud-content.com^
 ||icnejxkehslub.online^
 ||icodrops.com##.Project-Card--promo^
 ||icodrops.com##.Promo-Line^
@@ -28888,7 +28880,6 @@
 ||ittorchicer.com^
 ||ittoxicroakon.club^
 ||itudxxjroadevb.com^
-||itunes.com^
 ||itvalleynews.com^
 ||itvfpesimiyuy.tech^
 ||itvpxyhsacbwm.online^
@@ -47706,7 +47697,6 @@
 ||safe-connection21.com^
 ||safebk.shop^
 ||safebrowsdv.com^
-||safebrowsing.apple^
 ||safebrowsing.g.applimg.com^
 ||safeglimmerlongitude.com^
 ||safelinktracker.com^$third-party

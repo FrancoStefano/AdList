@@ -58301,18 +58301,9 @@ de8of677fyt0b.cloudfront.net
 eum-appdynamics.com
 jscdn.appier.net
 aaplimg.com
-apple-cloudkit.com
-apple-dns.net
-apple-livephotoskit.com
-apple-mapkit.com
-apple.news
-apzones.com
-icloud-content.com
 icons.axm-usercontent-apple.com
-itunes.com
 me.com
 mzstatic.com
-safebrowsing.apple
 safebrowsing.g.applimg.com
 iadsdk.apple.com
 applifier.com
@@ -59507,7 +59498,6 @@ ghcr.io
 github.blog
 github.dev
 octocaptcha.com
-github.io
 aff3.gittigidiyor.com
 gittip.com
 sitest.jp
