@@ -58381,7 +58381,6 @@ azadify.com
 azure.com
 azure.net
 azurefd.net
-trafficmanager.net
 blob.core.windows.net
 azureedge.net
 b2bcontext.ru
@@ -60388,7 +60387,6 @@ msauth.net
 msauthimages.net
 msftauth.net
 msftstatic.com
-msidentity.com
 nelreports.net
 windowscentral.com
 analytics.live.com
@@ -60648,8 +60646,6 @@ ocioso.com.br
 oclasrv.com
 octapi.net
 service.octavius.rocks
-office.com
-office.net
 oghub.io
 ohmystats.com
 adohana.com
@@ -64006,7 +64002,6 @@ webads.co.uk
 fr.webedia-group.com
 weborama.com
 webtrends.com
-microsoft.com
 weebly.com
 sina.com
 widerplanet.com
