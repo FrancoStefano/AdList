@@ -4751,8 +4751,8 @@
 ||adtear.com^$third-party
 ||adtech.de^
 ||adtech.de^$third-party
-||www.adtech.yahooinc.com^
 ||adtech.yahooinc.com^
+||www.adtech.yahooinc.com^
 ||adtechium.com^$third-party
 ||adtechjp.com^$third-party
 ||adtechus.com^
@@ -7939,8 +7939,6 @@
 ||azulcw7.com^
 ||azulenejuchart.qpon^
 ||azumydmuetbbp.site^
-||azure.com^
-||azure.net^
 ||azureedge.net/adtags/^
 ||azureedge.net^
 ||azurefd.net^
@@ -10734,7 +10732,6 @@
 ||business-standard.com##.Nws_banner_Hp^
 ||business-standard.com##div[id^="between_article_content_"]
 ||business-standard.com,johncodeos.com##.hide-on-mobile^
-||business.linkedin.com^
 ||business.twitter.com^
 ||business2community.com##.busin-coinzilla-after-content^
 ||business2community.com##.busin-news-placement-2nd-paragraph^
@@ -12852,8 +12849,6 @@
 ||cloudflare-ipfs.com^
 ||cloudflare-quic.com^
 ||cloudflare-terms-of-service-abuse.com^
-||cloudflare.com^
-||cloudflare.net^
 ||cloudflare.tv^
 ||cloudflareaccess.com^
 ||cloudflareclient.com^
@@ -18138,7 +18133,6 @@
 ||du2uh7rq0r0d3.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
 ||du99h8anpnevg.cloudfront.net^
-||dual-s-msedge.net^
 ||dualistesseda.com^
 ||dualmarket.info^
 ||dubbyamazons.help^
@@ -24030,8 +24024,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||www.google-analytics.com^
 ||google-analytics.com^
+||www.google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -32389,7 +32383,6 @@
 ||libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com,utorrent.com##[href*="://go.nordvpn.net/"]^
 ||lic.me##.miniplayer^
 ||licantrum.com^
-||licdn.com^
 ||licenceconsiderably.com^
 ||licensebuttons.net^
 ||licfbzovbjkuz.space^
@@ -32545,10 +32538,9 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="advertisement"]^
+||linkedin.com##iframe[title="Advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
-||linkedin.com^
 ||linkedprepenseprepense.com^
 ||linker.hr^
 ||linkev.com^
@@ -34533,7 +34525,6 @@
 ||mdxjgygc.com^
 ||mdyqnpmbc.com^
 ||me-gay.com,redporn.porn##.b-uvb-spot^
-||me.com^
 ||me4track.com^
 ||meagerblock.pro^
 ||meagplin.com^
@@ -36676,7 +36667,6 @@
 ||mzsantsemsgll.website^
 ||mzscparkeayvs.site^
 ||mzsdzjkluiprv.store^
-||mzstatic.com^
 ||mzvjugwokrbyc.website^
 ||mzyaatpvcrtnl.store^
 ||mzzzpvllsjxpy.online^

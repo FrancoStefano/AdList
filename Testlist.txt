@@ -58285,8 +58285,6 @@ de8of677fyt0b.cloudfront.net
 eum-appdynamics.com
 jscdn.appier.net
 icons.axm-usercontent-apple.com
-me.com
-mzstatic.com
 safebrowsing.g.applimg.com
 iadsdk.apple.com
 applifier.com
@@ -58378,8 +58376,6 @@ awin1.com
 perfb.com
 ad.globe7.com
 azadify.com
-azure.com
-azure.net
 azurefd.net
 blob.core.windows.net
 azureedge.net
@@ -58756,8 +58752,6 @@ www.is1.clixgalore.com
 clixmetrix.com
 clixsense.com
 cloud-media.fr
-cloudflare.com
-cloudflare.net
 cloudflare-dm-cmpimg.com
 cloudflare-dns.com
 cloudflare-ipfs.com
@@ -60130,8 +60124,6 @@ tongji.linezing.com
 linkbucks.com
 linkconnector.com
 bizo.com
-licdn.com
-linkedin.com
 lynda.com
 ads.linkedin.com
 snap.licdn.com
@@ -60475,7 +60467,6 @@ mrpdata.net
 mrskincash.com
 a-msedge.net
 b-msedge.net
-dual-s-msedge.net
 e-msedge.net
 k-msedge.net
 l-msedge.net
@@ -63164,20 +63155,10 @@ a.gmdelivery.com
 gmo.media
 godaddy.com
 goodadvert.ru
-
-
-
-
 adwords.google.com
-
 developers.google.com
 adwords.google.com
-
 marketingplatform.google.com
-
-
-
-
 gorillanationmedia.com
 grabo.bg
 grandslammedia.com
@@ -63349,8 +63330,6 @@ limk.com
 linezing.com
 linkbucks.com
 linkconnector.com
-linkedin.com
-business.linkedin.com
 linker.hr
 linkprice.com
 linksmart.com
