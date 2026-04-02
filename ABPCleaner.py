@@ -92,9 +92,9 @@ def process_abp_list():
     content = "\n".join(output_lines)
 
     # 2. Save to ABPcleanedList.txt
-    with open("ABPcleanedList.txt", "w", encoding='utf-8') as f:
-        f.write(content)
-    print(f"Success! Processed {count} unique entries into 'ABPcleanedList.txt'.")
+    #with open("ABPcleanedList.txt", "w", encoding='utf-8') as f:
+    #    f.write(content)
+    #print(f"Success! Processed {count} unique entries into 'ABPcleanedList.txt'.")
 
     # 3. Also update ABPList (no extension) if it exists in the same folder
     abplist_path = os.path.join(current_dir, "ABPList")
