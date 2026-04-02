@@ -62263,8 +62263,6 @@ xxxlutz.de
 adx.com.ru
 yabbi.me
 yabuka.com
-tumblr.com
-yahoo.com
 yahooapis.com
 yimg.com
 oath.cloud
@@ -62355,9 +62353,7 @@ youcanbook.me
 player.youku.com
 youporn.com
 ypncdn.com
-googlevideo.com
 youtube-nocookie.com
-
 ytimg.com
 c.ypcdn.com
 i1.ypcdn.com
@@ -62570,10 +62566,7 @@ adnium.com
 adnologies.com
 adnow.com
 adnymics.com
-demdex.com
-adobe.com
-adobe.com
-adobe.com
+demdex.co
 adocean.cz
 adometry.com
 adonnetwork.com

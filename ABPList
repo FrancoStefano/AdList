@@ -24031,8 +24031,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||google-analytics.com^
 ||www.google-analytics.com^
+||google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -24106,7 +24106,6 @@
 ||googletraveladservices.com^
 ||googlevads-cn.com^
 ||googlevideo.com/videoplayback?$rewrite=abp-resource:blank-mp4,domain=laurelberninteriors.com|safeframe.googlesyndication.com^
-||googlevideo.com^
 ||goolahwhirrs.life^
 ||goomaphy.com^
 ||goonchclues.shop^
@@ -32547,7 +32546,7 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="advertisement"]^
+||linkedin.com##iframe[title="Advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedin.com^
@@ -34161,8 +34160,8 @@
 ||maper.info^
 ||maphatinso.net^
 ||maplehache.cfd^
-||www.maploco.com^
 ||maploco.com^
+||www.maploco.com^
 ||mapquest.co.uk,mapquest.com##.mqBizLocsContainer^
 ||mapquest.com##.bg-primary-12^
 ||mapquest.com##.mq-bizLocs-container^
@@ -55000,7 +54999,6 @@
 ||tumblr.com##.Yc2Sp^
 ||tumblr.com##[href*="smartadserver.com/click?"] + div[class]^
 ||tumblr.com##[href*="smartadserver.com/click?"]^
-||tumblr.com^
 ||tumbreltedder.digital^
 ||tumefathom.help^
 ||tumorskyar.com^
