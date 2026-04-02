@@ -10053,7 +10053,6 @@
 ||business-standard.com##.Nws_banner_Hp^
 ||business-standard.com##div[id^="between_article_content_"]
 ||business-standard.com,johncodeos.com##.hide-on-mobile^
-||business.linkedin.com^
 ||business.twitter.com^
 ||business2community.com##.busin-coinzilla-after-content^
 ||business2community.com##.busin-news-placement-2nd-paragraph^
@@ -30729,11 +30728,10 @@
 ||linkconnector.com^
 ||linkconnector.com/tr.php^
 ||linkconnector.com/traffic_record.php^
-||linkedin.com^
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="advertisement"]^
+||linkedin.com##iframe[title="Advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedprepenseprepense.com^
