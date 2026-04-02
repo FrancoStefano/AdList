@@ -60686,9 +60686,7 @@ microadinc.com
 azurewebsites.net
 cloudapp.net
 gfx.ms
-microsoft.com
 microsoftonline-p.com
-microsoftonline.com
 microsofttranslator.com
 msecnd.net
 msedge.net
@@ -63413,10 +63411,6 @@ eyeota.com
 eyereturnmarketing.com
 eyeviewdigital.com
 ezakus.com
-facebook.com
-facebook.com
-facebook.com
-facebook.com
 facebook.com
 facetz.net
 facilitatedigital.com
