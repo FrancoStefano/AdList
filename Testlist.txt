@@ -59473,7 +59473,6 @@ giphy.com
 giraff.io
 ghcr.io
 github.blog
-github.dev
 octocaptcha.com
 aff3.gittigidiyor.com
 gittip.com
@@ -62410,6 +62409,7 @@ zwaar.net
 zwaar.org
 extend.tv
 extend.tv
+ls.srvcs.tumblr.com
 163.com
 1dmp.io
 fr.1sponsor.com
@@ -62566,7 +62566,10 @@ adnium.com
 adnologies.com
 adnow.com
 adnymics.com
-demdex.co
+demdex.com
+adobe.com
+adobe.com
+adobe.com
 adocean.cz
 adometry.com
 adonnetwork.com
@@ -63165,10 +63168,20 @@ a.gmdelivery.com
 gmo.media
 godaddy.com
 goodadvert.ru
+
+
+
+
 adwords.google.com
+
 developers.google.com
 adwords.google.com
+
 marketingplatform.google.com
+
+
+
+
 gorillanationmedia.com
 grabo.bg
 grandslammedia.com
@@ -63391,7 +63404,6 @@ en.frodx.com
 marketo.com
 markmonitor.com
 marktest.com
-
 martinimediainc.com
 mbn.com.ua
 mastertarget.ru
@@ -63451,7 +63463,6 @@ mobicow.com
 mobify.com
 moceanmobile.com
 modernimpact.com
-
 mogomarketing.com
 populis.com
 monetize-me.com
@@ -63551,10 +63562,6 @@ ordergroove.com
 otclick-adv.ru
 otm-r.com
 outbrain.com
-outbrain.com
-outbrain.com
-outbrain.com
-outbrain.com
 owneriq.com
 oxomi.com
 precisionhealthmedia.com
@@ -63625,7 +63632,6 @@ proximic.com
 proxistore.com
 psyma.com
 pub-fit.com
-
 pubdirecte.com
 pubgears.com
 publicidees.co.uk
@@ -63676,6 +63682,7 @@ refericon.pl
 referlocal.com
 refersion.com
 refinedlabs.com
+
 convert.us
 reklamstore.com
 reklamport.com
@@ -63716,6 +63723,7 @@ rotaban.ru
 rovion.com
 en.adpilot.com
 rtbmarkt.de
+
 rubiconproject.com
 ruhrgebiet-onlineservices.de
 rummycircle.com
@@ -63731,7 +63739,6 @@ salesforce.com
 salesfusion.com
 salespidermedia.com
 samba.tv
-samsung.com
 sanoma.com
 sapexchange.media
 sapo.pt
@@ -63758,6 +63765,7 @@ semasio.com
 semilo.nl
 fr.sendinblue.com
 sepyra.com
+
 shareasale.com
 sharethis.com
 sharethrough.com
@@ -63791,7 +63799,6 @@ smarterhq.com
 smartertrack.com
 smartstream.tv
 smowtion.com
-snapchat.com
 snigelweb.com
 sociablelabs.com
 merkleinc.com
@@ -64059,4 +64066,3 @@ zeusclicks.com
 ziffdavis.com
 zwaar.org
 zypmedia.com
-ls.srvcs.tumblr.com

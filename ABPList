@@ -4751,8 +4751,8 @@
 ||adtear.com^$third-party
 ||adtech.de^
 ||adtech.de^$third-party
-||adtech.yahooinc.com^
 ||www.adtech.yahooinc.com^
+||adtech.yahooinc.com^
 ||adtechium.com^$third-party
 ||adtechjp.com^$third-party
 ||adtechus.com^
@@ -23518,7 +23518,6 @@
 ||giswygovfhdym.online^
 ||gitajwl.com^
 ||github.blog^
-||github.dev^
 ||gitoku.com^
 ||gittip.com^
 ||givawknyjaexj.online^
@@ -24031,8 +24030,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||www.google-analytics.com^
 ||google-analytics.com^
+||www.google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -32546,7 +32545,7 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="Advertisement"]^
+||linkedin.com##iframe[title="advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedin.com^
