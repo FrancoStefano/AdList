@@ -54,8 +54,8 @@ def build_output_lines(target_file):
         current_group = sorted(grouped_domains[key], key=get_sort_val)
 
         for d in current_group:
-            # Standardize format: ensure it has || and ^ unless it already has complex rules
-            if not d.startswith("||"):
+            # Standardize format: ensure it has || and ^ unless it already starts with || or | or @@
+            if not d.startswith("||") and not d.startswith("|") and not d.startswith("@@"):
                 d = f"||{d}"
             if "^" not in d:
                 d = f"{d}^"
@@ -103,4 +103,3 @@ def process_abp_list():
 
 if __name__ == "__main__":
     process_abp_list()
-

@@ -1,33 +1,22 @@
+# !/usr/bin/python3
+# -*- coding:utf-8-*-
 import os
 import collections
 
 
-def process_abp_list():
-    # 1. File Discovery
-    current_dir = os.getcwd()
-    txt_files = [f for f in os.listdir(current_dir)
-                 if f.endswith('.txt') and f != "ABPcleanedList.txt"]
-
-    target_file = ""
-    if txt_files:
-        target_file = txt_files[0]
-        print(f"Found file: {target_file}. Processing...")
-    else:
-        target_file = input("No .txt files found. Please enter the full path to your file: ").strip()
-
-    if not os.path.exists(target_file):
-        print("Error: File not found.")
-        return
-
-    # 2. Read and Deduplicate
+def build_output_lines(target_file):
+    # 1. Read and Deduplicate
     with open(target_file, 'r', encoding='utf-8') as f:
         # Using a set to immediately remove exact line duplicates
-        raw_lines = set(line.strip() for line in f if line.strip())
+        # Skip comment lines (!) and section headers (#)
+        raw_lines = set(line.strip() for line in f if line.strip()
+                        and not line.strip().startswith('!')
+                        and not line.strip().startswith('#'))
 
     grouped_domains = collections.defaultdict(list)
     seen_normalized = set()
 
-    # 3. Logic for grouping and secondary deduplication
+    # 2. Logic for grouping and secondary deduplication
     for domain in raw_lines:
         # Create a "normalized" version to check for duplicates like 'example.com' vs 'Example.com'
         norm = domain.lower()
@@ -48,7 +37,7 @@ def process_abp_list():
         first_letter = sort_key[0].upper()
         grouped_domains[first_letter].append(domain)
 
-    # 4. Format the output
+    # 3. Format the output
     sorted_keys = sorted(grouped_domains.keys())
     output_lines = []
 
@@ -74,12 +63,44 @@ def process_abp_list():
 
         output_lines.append("")  # Empty line between groups
 
-    # 5. Save output
-    with open("ABPcleanedList.txt", "w", encoding='utf-8') as f:
-        f.write("\n".join(output_lines))
+    return output_lines, len(seen_normalized)
 
-    print(f"Success! Processed {len(seen_normalized)} unique entries into 'ABPcleanedList.txt'.")
+
+def process_abp_list():
+    # 1. File Discovery
+    current_dir = os.getcwd()
+    txt_files = [f for f in os.listdir(current_dir)
+                 if f.endswith('.txt') and f != "ABPcleanedList.txt"]
+
+    target_file = ""
+    if txt_files:
+        target_file = txt_files[0]
+        print(f"Found file: {target_file}. Processing...")
+    else:
+        target_file = input("No .txt files found. Please enter the full path to your file: ").strip()
+
+    if not os.path.exists(target_file):
+        print("Error: File not found.")
+        return
+
+    output_lines, count = build_output_lines(target_file)
+    content = "\n".join(output_lines)
+
+    # 2. Save to ABPcleanedList.txt
+    with open("ABPcleanedList.txt", "w", encoding='utf-8') as f:
+        f.write(content)
+    print(f"Success! Processed {count} unique entries into 'ABPcleanedList.txt'.")
+
+    # 3. Also update ABPList (no extension) if it exists in the same folder
+    abplist_path = os.path.join(current_dir, "ABPList")
+    if os.path.exists(abplist_path):
+        with open(abplist_path, "w", encoding='utf-8') as f:
+            f.write(content)
+        print(f"Also updated 'ABPList'.")
+    else:
+        print("Note: 'ABPList' not found in the current directory, skipping.")
 
 
 if __name__ == "__main__":
     process_abp_list()
+
