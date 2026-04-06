@@ -7542,7 +7542,6 @@
 ||autchoog.net^
 ||auteboon.net^
 ||autental.com##.header-grid-items^
-||auth0.com^
 ||authedmine.com^
 ||authentic-criticism.com^
 ||authenticchemistry.pro^
@@ -21180,15 +21179,11 @@
 ||firebasedynamiclinks-ipv4.googleapis.com^
 ||firebasedynamiclinks-ipv6.googleapis.com^
 ||firebasedynamiclinks.googleapis.com^
-||firebaseinappmessaging.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseio.com^
 ||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebaseperusertopics-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||fireflyengagement.com^$third-party
-||firefox.com^
 ||firelnk.com^
 ||fireplacedecency.com^
 ||firepunchmangafree.com##.ad-div-1^
@@ -37395,5 +37390,8 @@
 ||newsmaxfeednetwork.com^
 ||newsner.com##div[id^="
 
-#[r]
+#[R]
 ||revenuecat.com^
+
+#[W]
+wp.com
