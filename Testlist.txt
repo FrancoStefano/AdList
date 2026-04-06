@@ -35885,7 +35885,6 @@ mozgcp.net
 mozgvya.com
 mozilla.com
 mozilla.net
-mozilla.org
 mozomikvehs.world
 mozoo.com
 mp-https.info$third-party
