@@ -7920,7 +7920,6 @@
 #[B]
 ||b-cdn.net$domain=bunkr-albums.io|bunkr.cr|bunkr.si|simpcity.cr^
 ||b-m.xyz^
-||b-msedge.net^
 ||b.cdnst.net/javascript/amazon.js$script,domain=speedtest.net^
 ||b.clarity.ms^
 ||b.grabo.bg^
@@ -23970,8 +23969,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||google-analytics.com^
 ||www.google-analytics.com^
+||google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -34087,8 +34086,8 @@
 ||maper.info^
 ||maphatinso.net^
 ||maplehache.cfd^
-||maploco.com^
 ||www.maploco.com^
+||maploco.com^
 ||mapquest.co.uk,mapquest.com##.mqBizLocsContainer^
 ||mapquest.com##.bg-primary-12^
 ||mapquest.com##.mq-bizLocs-container^
