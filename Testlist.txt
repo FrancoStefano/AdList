@@ -20717,7 +20717,6 @@ fceedf7652.com
 fcghrjiduziwb.online
 fcgwwfcc.net
 fcilbhbadlxjf.online
-fcm.googleapis.com
 fcopqjfgfdzvv.online
 fcqkfnxepdhrq.love
 fcqxpfnznomxj.website
@@ -20773,8 +20772,6 @@ fedbuoy.com
 federalacerbitylid.com
 federalnewsnetwork.com,texasmonthly.com##.promo-inline
 federatedmedia.net
-fedex.com###shop-runner-banner-link
-fedex.com##.atTile1
 fedim.site
 fedirresponsibilityface.com
 fedot.site
@@ -21112,7 +21109,6 @@ findgirlsflirting.com
 findingexchange.com
 findizer.fr
 findmanloverse.com
-findmymobile.samsung.com
 findmysoft.com###as_336
 findologic.com
 findonlinee.com
@@ -21148,9 +21144,6 @@ finviz.com/gfx/banner_
 finvtech.com,herstage.com,sportynew.com,travel13.com#@##ads-wrapper
 fipnvuixbrwuv.space
 firdoagh.net
-firebasedynamiclinks-ipv4.googleapis.com
-firebasedynamiclinks-ipv6.googleapis.com
-firebasedynamiclinks.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
@@ -21216,7 +21209,6 @@ fiutv8rhxlijtx98g.cfd
 fiv8q7m3hv84k4pul3l.rest
 fivebooks.com,varsity.co.uk##.Leaderboard-container
 fivemoreish.help
-fivetran.com
 fiwekmyzlnvjx.site
 fiwhibse.com
 fixatestali.help
@@ -23875,8 +23867,6 @@ gocomics.com##.amu-ad-leaderboard-atf
 gocomics.com##.gc-deck--is-ad
 gocomics.com##.gc-top-advertising
 gocomics.com##[data-testid="advertising-unit"]
-godaddy.com
-godbolt.org###ces
 goddedkrater.com
 godisageek.com###custom_html-4
 godisageek.com###text-11
@@ -26681,7 +26671,6 @@ hublosk.com
 hubrisone.com
 hubrus.com
 hubsaugees.net
-hubspot.com
 hubtraffic.com$third-party
 hubvisor.io
 huckoreegri.net
@@ -29348,7 +29337,6 @@ jestfulseptuor.shop
 jestsaurore.cfd
 jetbrains.ai
 jetbrains.ru
-jetbrains.space
 jetlore.com
 jetpackdigital.com
 jetphotos.com##.result--adv
@@ -30511,7 +30499,6 @@ kdxlpbysvcnsv.site
 kdxnbakqw.net
 keajs.com
 keanangelsaidthe.org
-keap.com
 keauwobihhkxc.space
 kebyarsaron.rest
 kecheluntie.cfd
@@ -30532,7 +30519,6 @@ keen.io
 keenapcvgemwk.online
 keeneryeso.qpon
 keenmagwife.live$popup
-keep.google.com
 keep2share.cc/images/i/$third-party
 keepfuhmeoxtj.space
 keepinfit.net
@@ -30904,7 +30890,6 @@ kkzsewwbrnuhg.website
 klakus.com$third-party
 klamdocker.rest
 klaobgkmzjzko.top
-klarna.com
 klaushydra.com
 klaviyo.com
 klbbgbwwaylgm.top
@@ -33621,7 +33606,6 @@ lymcbxlqeqhta.space
 lymckensecuryren.org
 lymqochwnf.com
 lynchpin.com
-lynda.com
 lyngsat-logo.com,lyngsat-maps.com,lyngsat-stream.com,lyngsat.com,webhostingtalk.com##img[width="160"]
 lynnepoddige.cfd
 lyofmsxgupzvk.online
@@ -34958,7 +34942,7 @@ mhyacjinulgvu.store
 mhydndfvgzvwu.site
 mhyxciahfas.com
 mi-img.com
-mi.com
+mi.com #official global website of Xiaomi
 mi62r416j.com
 mi82ltk3veb7.com
 miamiherald.com##.videoInstance
@@ -37357,7 +37341,7 @@ newsmax.com##.nmsponsorlink + [class]
 newsmax.com##.nmsponsorlink
 newsmax.com
 newsmaxfeednetwork.com
-newsner.com##div[id="
+newsner.com
 
 #[R]
 revenuecat.com
