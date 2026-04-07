@@ -21156,7 +21156,6 @@ firebasedynamiclinks.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
-firebaseremoteconfig.googleapis.com
 fireflyengagement.com$third-party
 firelnk.com
 fireplacedecency.com
