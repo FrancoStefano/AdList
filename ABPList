@@ -21657,6 +21657,7 @@
 ||footprint.net^
 ||footprintdns.com^
 ||footprintlive.com^
+||footprints-pa.googleapis.com^
 ||footprintstopic.com^
 ||foottheball.com,small-screen.co.uk##.snackStickyParent^
 ||footybite.cc##div[style="border: 2px solid "]^
@@ -37339,11 +37340,17 @@
 ||newsmaxfeednetwork.com^
 ||newsner.com^
 
+#[P]
+||playatoms-pa.googleapis.com^
+||prodregistryv2.org^
+
 #[R]
 ||revenuecat.com^
 
 #[S]
 ||scorecardresearch.com^
+||statsig.com^
+||statsigapi.net^
 
 #[W]
 ||wp.com^
