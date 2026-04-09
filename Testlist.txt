@@ -3044,7 +3044,6 @@ a-ads.com
 a-cast.jp
 a-delivery.rmbl.ws
 a-mo.net
-a-msedge.net
 a-mx.com
 a-static.com$third-party
 a-waiting.com$popup
@@ -37357,3 +37356,4 @@ statsigapi.net
 prodregistryv2.org
 playatoms-pa.googleapis.com
 footprints-pa.googleapis.com
+playstoregatewayadapter-pa.googleapis.com

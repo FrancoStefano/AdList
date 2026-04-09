@@ -3041,7 +3041,6 @@
 ||a-cast.jp^
 ||a-delivery.rmbl.ws^
 ||a-mo.net^
-||a-msedge.net^
 ||a-mx.com^
 ||a-static.com$third-party^
 ||a-waiting.com$popup^
@@ -23956,8 +23955,8 @@
 ||goodsvalvemumble.com^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
-||google-analytics.com^
 ||www.google-analytics.com^
+||google-analytics.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||www.google.*###google-s-ad^
@@ -37341,6 +37340,7 @@
 
 #[P]
 ||playatoms-pa.googleapis.com^
+||playstoregatewayadapter-pa.googleapis.com^
 ||prodregistryv2.org^
 
 #[R]
