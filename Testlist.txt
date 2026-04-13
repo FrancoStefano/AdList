@@ -1,5 +1,3 @@
-ls.srvcs.tumblr.com
-
 #[A]
 ||aaxads.com^
 ||active.mobi^
@@ -57613,3 +57611,13 @@ platform.instagram.com
 adtidy.org
 otieu.com
 cdn4ads.com
+adbuyer.com
+madnet.ru
+mads.com
+magna.ru
+mail.ru
+163.com
+1dmp.io
+fr.1sponsor.com
+24-ads.com
+extend.tv
