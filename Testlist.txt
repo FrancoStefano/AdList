@@ -57621,6 +57621,8 @@ mail.ru
 fr.1sponsor.com
 24-ads.com
 extend.tv
+amazon.dev
+unagi.amazon.com
 img.ads.tvb.com
 adtron.io
 adapty.io

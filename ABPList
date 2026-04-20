@@ -5415,6 +5415,7 @@
 ||amazon.com###widget-rightUpsellSlot^
 ||amazon.com,cancam.jp,faceyourmanga.com,isc2.org,liverc.com,mit.edu,muscatdaily.com,olx.pl,saitama-np.co.jp,timesofoman.com,virginaustralia.com#@#[id^="div-gpt-ad"]
 ||amazon.com/aan/$subdocument^
+||amazon.dev^
 ||amazonadviser.com,apptrigger.com,arrowheadaddict.com,bamsmackpow.com,fansided.com,gamesided.com,gojoebruin.com,hiddenremote.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,stormininnorman.com,winteriscoming.net##.style_k8mr7b-o_O-style_1ts1q2h^
 ||amazonadviser.com,apptrigger.com,fansided.com,hiddenremote.com,lastnighton.com,lawlessrepublic.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,stormininnorman.com,winteriscoming.net##.header-billboard^
 ||amazonaws.com/campaigns-ad/^
@@ -29841,7 +29842,7 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="Advertisement"]^
+||linkedin.com##iframe[title="advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedprepenseprepense.com^
@@ -51168,6 +51169,7 @@
 ||umyyjgqyajxzu.online^
 ||umzkjponcxpvn.online^
 ||unaces.com^
+||unagi.amazon.com^
 ||unakinloggin.com^
 ||unalistrooibok.life^
 ||unanimousinflammableboxing.com^
