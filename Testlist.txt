@@ -57623,3 +57623,5 @@ fr.1sponsor.com
 extend.tv
 img.ads.tvb.com
 adtron.io
+adapty.io
+ogads-pa.clients6.google.com
