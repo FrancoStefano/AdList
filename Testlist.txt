@@ -57621,6 +57621,8 @@ mail.ru
 fr.1sponsor.com
 24-ads.com
 extend.tv
+unagi.amazon.de
+fls-na.amazon.com
 amazon.dev
 unagi.amazon.com
 img.ads.tvb.com
