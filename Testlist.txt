@@ -55221,7 +55221,6 @@ symbl.cc##.ad-incontent-rectangle
 system-rescue.org###sponsors-left
 systutorials.com###block-7
 sythe.org##a[href^="https://discord.gg/dmwatch"]
-t.17track.net##.up-deals
 t.17track.net##.up-deals-img
 t3.com##.leaderboard__container
 taboolanews.com##div[class*=" trc_elastic_sponsored-"]
@@ -57629,5 +57628,4 @@ img.ads.tvb.com
 adtron.io
 adapty.io
 ogads-pa.clients6.google.com
-17track.net
 klaviyo.com
