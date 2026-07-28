@@ -25365,6 +25365,7 @@
 ||impresivedate.com^
 ||impressexaltsculptor.com^
 ||impression-sync.xyz^
+||impression.com^
 ||impressionmonster.com^$third-party
 ||impressive-measurement.com^
 ||impressivetimes.com##[class$="-ads"]^
@@ -29843,7 +29844,7 @@
 ||linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]^
 ||linkedin.com##article[data-is-sponsored]^
 ||linkedin.com##iframe[componentkey$="_ad"]^
-||linkedin.com##iframe[title="Advertisement"]^
+||linkedin.com##iframe[title="advertisement"]^
 ||linkedin.com##li[data-is-sponsored="true"]^
 ||linkedin.com/tscp-serving/^
 ||linkedprepenseprepense.com^
