@@ -4549,7 +4549,11 @@ video-ads.a2z.com
 
 
 #[amazon-adsystem.com]
-
+fls-na.amazon.com
+prod.us-east-1.sonar.prime-video.amazon.dev
+unagi-eu.amazon.com
+unagi-na.amazon.com
+ipv6.unagi-na.amazon.com
 aax-adx.eu-west.3px.axp.amazon-adsystem.com
 aax-adx.us-east.3px.axp.amazon-adsystem.com
 aax-adx.us-west.3px.axp.amazon-adsystem.com
