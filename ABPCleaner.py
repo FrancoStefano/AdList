@@ -18,6 +18,13 @@ def build_output_lines(target_file):
 
     # 2. Logic for grouping and deduplication (after ABP standardization)
     for domain in raw_lines:
+        # Split off trailing commentary (e.g. "iconfactory.net ### TapestryAds"):
+        # a '#' preceded by whitespace is a human comment, not part of the domain.
+        commentary = ""
+        hash_idx = domain.find('#')
+        if hash_idx > 0 and domain[hash_idx - 1] == ' ':
+            domain, commentary = domain[:hash_idx].rstrip(), domain[hash_idx:]
+
         # Normalize single | prefix to || (invalid ABP format)
         if domain.startswith("|") and not domain.startswith("||") and not domain.startswith("@@"):
             domain = "|" + domain
@@ -27,6 +34,9 @@ def build_output_lines(target_file):
             domain = f"||{domain}"
         if "^" not in domain:
             domain = f"{domain}^"
+
+        if commentary:
+            domain = f"{domain} {commentary}"
 
         # Deduplicate after standardization so 'extend.tv' and '||extend.tv^' are treated as the same
         norm = domain.lower()
