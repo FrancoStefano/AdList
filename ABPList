@@ -29848,7 +29848,7 @@
 ||linkedin.com^ ###[componentkey*="_expandedurn:li:sponsoredContentV2"]
 ||linkedin.com^ ###article[data-is-sponsored]
 ||linkedin.com^ ###iframe[componentkey$="_ad"]
-||linkedin.com^ ###iframe[title="advertisement"]
+||linkedin.com^ ###iframe[title="Advertisement"]
 ||linkedin.com^ ###li[data-is-sponsored="true"]
 ||linkedprepenseprepense.com^
 ||linkev.com^
@@ -51174,6 +51174,7 @@
 ||umyyjgqyajxzu.online^
 ||umzkjponcxpvn.online^
 ||unaces.com^
+||unagi-na.amazon.com^ ### Amazon Ads
 ||unagi.amazon.com^
 ||unagi.amazon.de^
 ||unakinloggin.com^
