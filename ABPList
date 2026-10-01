@@ -29849,7 +29849,7 @@
 ||linkedin.com^ ###[componentkey*="_expandedurn:li:sponsoredContentV2"]
 ||linkedin.com^ ###article[data-is-sponsored]
 ||linkedin.com^ ###iframe[componentkey$="_ad"]
-||linkedin.com^ ###iframe[title="advertisement"]
+||linkedin.com^ ###iframe[title="Advertisement"]
 ||linkedin.com^ ###li[data-is-sponsored="true"]
 ||linkedprepenseprepense.com^
 ||linkev.com^
@@ -57600,4 +57600,3 @@
 ||_images/ad.$image^
 ||_prebid.js$script^
 ||_reklama_$domain=~youtube.com^
-
